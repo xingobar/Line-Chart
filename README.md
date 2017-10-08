@@ -1,5 +1,5 @@
 # Line-Chart
 Android Line Chart
 
-ScreenShot
+## ScreenShot
 ![img](https://github.com/xingobar/Line-Chart/blob/master/linechart.PNG)
